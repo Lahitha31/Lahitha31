@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lahitha31
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL and R programming and working on data analytic project
-- 💞️ I’m looking to collaborate on a data analytic projects
-- 📫 How to reach me through email: mlahitha@gmail.com
+- 👀 I’m interested in data analytics and dataengineering
+- 🌱 I’m currently working on data engineering project
+- 💞️ I’m looking to collaborate on a data analytic and data engineering projects
+- 📫 How to reach me through email: lahithamotupalli04@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
 
